@@ -455,13 +455,17 @@ ul > a > li{
 @media (max-width: 377px) and (min-width: 300px){
     footer{
         position: absolute;
-        top: 460px;
-        height: 36%;
+        top: 445px;
+        height: 40%;
         padding-right: 40px;
     }
 
     .informaciones{
         margin-left: 30px;
+    }
+
+    .microfono, .camara{
+        top: 8px;
     }
 }
 
